@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 README For CSE-320 Repository
 ==========================
 
@@ -57,3 +58,9 @@ In this lab we talked about some common and important concepts and patterns in o
 Started to use Prolog which is a language very different from the ones you've seen so far. Don't worry too much about being productive in it. Just try and focus on the ideas from Prolog that we're focusing on. (Of course, if you find it interesting, then by all means dive in deeper than we go in these labs!)
 
 Prolog is a _logic programming language_, this is a programming paradigm that looks like and works similarly to formal logic.
+=======
+# CSE-320 - Programming Languages
+Course Description: Topics include formal language specification, data types and their implementation, abstract mechanisms, control structures, run-time representations and storage management. Several high-level languages will be examined.
+
+#### Repository of CSE-313 when I took the class at my University
+>>>>>>> master

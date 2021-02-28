@@ -1,0 +1,23 @@
+Standard Error
+   Compiling playground v0.0.1 (file:///playground)
+warning: use of deprecated item: replaced by `std::thread::sleep`
+  --> src/main.rs:23:9
+   |
+23 |         thread::sleep_ms(1000);
+   |         ^^^^^^^^^^^^^^^^
+   |
+   = note: #[warn(deprecated)] on by default
+
+    Finished dev [unoptimized + debuginfo] target(s) in 0.91 secs
+     Running `target/debug/playground`
+Standard Output
+Judith Butler is eating.
+Karl Marx is eating.
+Judith Butler is done eating.
+Karl Marx is done eating.
+Emma Goldman is eating.
+Gilles Deleuze is eating.
+Emma Goldman is done eating.
+Michel Foucault is eating.
+Gilles Deleuze is done eating.
+Michel Foucault is done eating.
